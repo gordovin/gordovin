@@ -32,7 +32,7 @@
 
 ### 🔹 Portfolio
 - **Description:** Personal website showcasing my skills and projects
-- **Repository:** https://github.com/gordovin/mini-portfolio
+- **Repository:** https://github.com/gordovin/Mini-portfolio-
 
 ---
 
